@@ -3,7 +3,6 @@ title: Чума Заклинаний
 description: D&D-кампания в разрушенном Фаэруне после магической катастрофы
 tags: [campaign, dnd]
 date: 2025-06-14
-permalink: /
 ---
 
 
