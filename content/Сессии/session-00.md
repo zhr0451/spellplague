@@ -26,6 +26,8 @@ aliases: [Сессия 0, Введение]
 
 ![[faerun_4th_33.jpg]]
 
+[скачать карту](https://drive.google.com/file/d/1P78XW8dDKQitUi2nRXQwiNkqO4xPBu8S/view?usp=drive_link)
+
 ---
 
 ## 🌀 Магия и её последствия
