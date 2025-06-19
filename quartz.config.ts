@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Vollkorn",
-        body: "Vollkorn",
-        code: "PT Mono",
+        header: "Cormorant Unicase",
+        body: "Didact Gothic",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
