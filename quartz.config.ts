@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cormorant Unicase",
-        body: "Didact Gothic",
+        header: "Roboto Slab",
+        body: "Roboto",
         code: "Roboto Mono",
       },
       colors: {
